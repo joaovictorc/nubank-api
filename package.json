@@ -27,7 +27,7 @@
   "homepage": "https://github.com/joaovictorc/nubank-api/blob/master/README.md",
   "dependencies": {
     "jest-cli": "^16.0.2",
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.19",
     "node-fetch": "^1.6.3"
   },
   "devDependencies": {
