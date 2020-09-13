@@ -28,7 +28,7 @@
   "dependencies": {
     "jest-cli": "^16.0.2",
     "lodash": "^4.16.4",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
